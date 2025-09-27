@@ -492,7 +492,7 @@ section {
   left: 0;
   width: 20px;
   height: 20px;
-  background: url(D:\codes\3d-portfolio\public\images\svgviewer-output.svg) no-repeat;
+  background: url(/public/images/svgviewer-output.svg) no-repeat;
   background-size: 90%;
   transform-style: preserve-3d;
   backface-visibility: visible;
